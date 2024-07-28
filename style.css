@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color:rgb(224, 222, 222);
+    align-items: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.card{
+    margin: 5vw;
+    background-color: white;
+    border: 1px;
+    border-radius: 15px;    
+    height: 510px;
+    width: 263px;
+}
+.Img{
+    padding: 6px;
+    border-radius: 19px;
+}
+.title{
+    border: 1px solid rgb(207, 207, 207);
+    border-radius: 18px;
+    padding: 1vh;
+    align-content: center;
+    margin: 0vh 0vh 0vh 3vh;
+}
+.h2{
+    margin-left: 3vh;
+    margin-top: 3vh;
+}
+.para{
+    margin: 1vh 3vh 0vh 3vh;
+}
+.button{
+    border:3px ;
+    font-weight:600;
+    background-color: rgba(0, 110, 255, 0.322);
+    /* text-align: center; */
+    margin: 25px 0px 0px 86px;
+    padding: 7px 7px 7px 7px;
+    border-radius:10px;
+}
